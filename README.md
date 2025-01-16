@@ -1,5 +1,5 @@
 # Coffee_data_Analytics-Using-PostgreSQL
--- Recomendation
+-- Recommendation
 City 1: Pune
 	1.Average rent per customer is very low.
 	2.Highest total revenue.

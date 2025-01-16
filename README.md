@@ -1,4 +1,6 @@
 # Coffee_data_Analytics-Using-PostgreSQL
+Problem:
+The business aims to expand by opening three coffee shops in India's top 3 major cities. Since its launch in January 2023, the company has successfully sold its products online and received an overwhelmingly positive response in several cities. As a data analyst, your task is to analyze the sales data and provide insights to recommend the top three cities for this expansion.
 -- Recommendation
 City 1: Pune
 	1.Average rent per customer is very low.

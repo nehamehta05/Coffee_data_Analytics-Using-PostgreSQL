@@ -2,7 +2,7 @@
 
 **Project Description:**
 
-This project involves analyzing the sales data of a coffee company using PostgreSQL to assist in its expansion strategy. The company, launched in January 2023, has experienced significant online sales success and aims to open physical coffee shops in India's top three major cities. As a data analyst, your objective is to explore the coffee sales dataset to identify key trends and customer preferences. By leveraging SQL queries, you will extract actionable insights, such as sales performance, city-wise revenue, and customer demographics, to recommend the top three cities where the company should establish new coffee shops for optimal market penetration and growth.
+This project involves analyzing the sales data of a coffee company using PostgreSQL to assist in its expansion strategy. The company, launched in January 2023, has experienced significant online sales success and aims to open physical coffee shops in India's top three major cities. As a data analyst, our objective is to explore the coffee sales dataset to identify key trends and customer preferences. By leveraging SQL queries, we will extract actionable insights, such as sales performance, city-wise revenue, and customer demographics, to recommend the top three cities where the company should establish new coffee shops for optimal market penetration and growth.
 
 # **Recommendations**
 
